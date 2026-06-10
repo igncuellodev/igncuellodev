@@ -8,7 +8,7 @@ Passionate about technology, interface design, and building scalable digital sys
 ### 🛠 Tech Stack
 - **Frontend:** Tailwind CSS, HTML5, CSS3, JavaScript and React
 - **Backend:** Python
-- **Tools:** Figma, Vite, Git and Gemini CLI
+- **Tools:** Figma, Vite, Git and Gemini/Claude CLI
 
 ### 📈 Current Focus
 - Building management systems for foreign trade.
@@ -18,6 +18,6 @@ Passionate about technology, interface design, and building scalable digital sys
 ---
 
 ### 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio](https://tu-portfolio.com)
+- [LinkedIn](https://linkedin.com/in/igncuello) | [Portfolio](https://ignaciobuilds.com)
 
 *Do you have a project in mind or want to chat about tech? Let's talk!*
