@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ignacio Cuello! 👋
 
-<!--
-**igncuellodev/igncuellodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Designer & Web Developer
+Passionate about technology, interface design, and building scalable digital systems. My approach blends the empathy of design with the power of web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** Tailwind CSS, HTML5, CSS3, JavaScript and React
+- **Backend:** Python
+- **Tools:** Figma, Vite, Git and Gemini CLI
+
+### 📈 Current Focus
+- Building management systems for foreign trade.
+- Advancing in full-stack web development.
+- Exploring how AI enhances productivity in design and coding.
+
+---
+
+### 📬 Let's Connect
+- [LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio](https://tu-portfolio.com)
+
+*Do you have a project in mind or want to chat about tech? Let's talk!*
