@@ -1,23 +1,38 @@
-# Hi, I'm Ignacio Cuello! 👋
+# Hi, I'm Ignacio 👋
 
-### Product Designer & Web Developer
-Passionate about technology, interface design, and building scalable digital systems. My approach blends the empathy of design with the power of web development.
+**Product Designer & Aspiring Developer | Bridging the gap between design and logic.**
+
+I am a Product Designer passionate about creating digital systems, not just interfaces. I am currently deepening my knowledge in web development to build products that are as robust on the inside as they are intuitive on the outside.
+
+---
+
+### 🚀 About Me
+* **Focus:** I specialize in UI/UX and systemic design, with a strong interest in automation and frontend development.
+* **Current Stack:** JavaScript, Tailwind CSS, Figma.
+* **Continuous Learning:** Currently pursuing a Web Development Diploma at Pontificia Universidad Católica de Chile.
+* **Philosophy:** I design with the mind of a programmer and code with the sensitivity of a designer.
 
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** Tailwind CSS, HTML5, CSS3, JavaScript and React
-- **Backend:** Python
-- **Tools:** Figma, Vite, Git and Gemini/Claude CLI
 
-### 📈 Current Focus
-- Building management systems for foreign trade.
-- Advancing in full-stack web development.
-- Exploring how AI enhances productivity in design and coding.
+| Design | Development | Tools |
+| :--- | :--- | :--- |
+| Figma | JavaScript | Git |
+| Systemic Design | Tailwind CSS | VS Code |
+| Prototyping | React (In progress) | IA Workflows |
 
 ---
 
-### 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/igncuello) | [Portfolio](https://ignaciobuilds.com)
+### 💡 What I'm Building
+* **Management App:** Developing a personal application featuring a pulse flow and subscription tiers named Prudente, Analista, and Visionario.
+* **Automation:** Focused on creating tools to optimize my design workflow.
+* **Logic Projects:** Applying programming logic to real-world problems during my studies.
 
-*Do you have a project in mind or want to chat about tech? Let's talk!*
+---
+
+### 📫 Let's Connect
+* **Website:** [ignaciobuilds.com](https://ignaciobuilds.com)
+* **LinkedIn:** [https://www.linkedin.com/in/igncuello/]
+
+---
