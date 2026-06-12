@@ -8,7 +8,7 @@ I am a Product Designer passionate about creating digital systems, not just inte
 
 ### 🚀 About Me
 * **Focus:** I specialize in UI/UX and systemic design, with a strong interest in automation and frontend development.
-* **Current Stack:** JavaScript, Tailwind CSS, Figma.
+* **Current Stack:** HTML, CSS, JavaScript, Tailwind CSS, Python, Figma.
 * **Continuous Learning:** Currently pursuing a Web Development Diploma at Pontificia Universidad Católica de Chile.
 * **Philosophy:** I design with the mind of a programmer and code with the sensitivity of a designer.
 
